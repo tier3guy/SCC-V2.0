@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
+:root {
+    --main: #ffffff;
+    --black: #424242;
+    --orange: #d6680b;
+    --blue: #0054dc;
+    --font-main: 'Fira Sans';
+}
