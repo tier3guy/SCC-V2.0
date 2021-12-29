@@ -1,0 +1,22 @@
+.offcanvas{
+  z-index: 9999;
+  height: 100vh;
+}
+
+.offcanvas-body{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  height: 50% !important;
+}
+
+.card{
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.card-body{
+  display:flex;
+  justify-content:center;
+  align-items: center;
+}
