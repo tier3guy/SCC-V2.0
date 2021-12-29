@@ -5,10 +5,15 @@
     align-items: center;
     height: 100vh;
     flex-direction: column;
+    background: var(--white);
 }
 
 .btn-custom{
     background: var(--blue);
     font-size: 1.3em;
-    color: var(--main) !important;
+    color: var(--white) !important;
+    transition: all 0.3s;
+}
+.btn-custom:hover{
+    background: var(--dark-blue);
 }
