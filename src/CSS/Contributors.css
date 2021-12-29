@@ -1,0 +1,9 @@
+.contributor-section{
+  min-height: 100vh;
+  padding-top: 7em;
+}
+
+.gallery{
+  display: flex;
+  justify-content: space-between;
+}
