@@ -38,6 +38,8 @@
 #offcanvasTopLabel{
   text-align: center;
   margin-top: 1em;
-  color: var(--dark-blue);
+  color: var(--pink);
+  font-size: 1.4em;
   margin:auto;
+  font-family: var(--font-main);
 }
