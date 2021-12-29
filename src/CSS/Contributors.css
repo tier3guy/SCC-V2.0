@@ -1,0 +1,14 @@
+.contributor-section{
+  min-height: 100vh;
+  padding-top: 7em;
+}
+
+.gallery{
+  display: flex;
+  justify-content: space-between;
+}
+
+.contributor-card .card-body{
+  display: flex;
+  flex-direction: column;
+}

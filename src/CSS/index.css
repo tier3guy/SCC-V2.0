@@ -2,6 +2,8 @@
 @import "./Navbar.css";
 @import "./Main.css";
 @import "./Footer.css";
+@import "./Contributors.css";
+@import "./Resources.css";
 * {
     box-sizing: border-box;
     margin: 0;
@@ -9,3 +11,15 @@
     font-family: var(--font-main);
     color: var(--color);
 }
+
+body::-webkit-scrollbar{
+    width: 12px;
+}
+
+body::-webkit-scrollbar-thumb{
+    background-color: var(--black);
+}
+body::-webkit-scrollbar-track{
+    background: transparent;
+}
+
