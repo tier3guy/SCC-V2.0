@@ -11,4 +11,9 @@
 .contributor-card .card-body{
   display: flex;
   flex-direction: column;
+  color: var(--white)
+}
+
+.contributor-card .card-body a{
+  color: var(--pink)
 }

@@ -6,8 +6,12 @@
 }
 
 .offcanvas-body{
+  width: 90vw;
+  margin: auto;
   display: grid;
   grid-template-columns: auto auto auto;
+  column-gap: 1.1em;
+  row-gap: 1.1em;
   height: 50% !important;
 }
 
