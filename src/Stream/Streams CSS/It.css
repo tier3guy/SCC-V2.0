@@ -1,0 +1,7 @@
+.IT-section span{
+  columns: var(--pink);
+}
+.IT-section{
+  padding-bottom: 4em;
+  padding-top: 8.5em;
+}
