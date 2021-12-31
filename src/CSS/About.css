@@ -1,0 +1,12 @@
+.about-section h3, .main-section h3{
+  margin: 1em;
+  font-size: 1.9em;
+  color: var(--dark-blue)
+}
+.about-section p, .main-section p{
+  font-size: 1.1em;
+}
+.about-section span, .main-section span{
+  color: var(--pink);
+  font-size: 1.1em;
+}

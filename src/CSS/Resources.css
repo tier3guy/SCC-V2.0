@@ -1,11 +1,17 @@
 .offcanvas{
   z-index: 9999;
   height: 100vh;
+  background: var(--white);
+  border-top: 3px solid var(--dark-blue);
 }
 
 .offcanvas-body{
+  width: 90vw;
+  margin: auto;
   display: grid;
   grid-template-columns: auto auto auto;
+  column-gap: 1.1em;
+  row-gap: 1.1em;
   height: 50% !important;
 }
 
@@ -13,10 +19,31 @@
   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
   margin-right: 10px;
   margin-bottom: 10px;
+  background: var(--blue);
+  transition: all 0.3s;
+}
+.card:hover{
+  background: var(--dark-blue);
 }
 
 .card-body{
   display:flex;
   justify-content:center;
   align-items: center;
+}
+
+.card-body a{
+  text-decoration: none;
+  color: var(--white);
+  transition: all 0.3s;
+  font-size: 1.2em;
+}
+
+#offcanvasTopLabel{
+  text-align: center;
+  margin-top: 1em;
+  color: var(--pink);
+  font-size: 1.4em;
+  margin:auto;
+  font-family: var(--font-main);
 }
