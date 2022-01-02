@@ -15,3 +15,6 @@
   |- pages          -- all pages that are present in the website expect the home page should to store here.
 
   |- Stream         -- Resources page eg. mechanical.html, cse.html pages should be stored here
+  
+  ## Link of Website
+  - https://kamya123.github.io/SCC-V2.0/
