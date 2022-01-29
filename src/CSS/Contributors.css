@@ -3,17 +3,6 @@
   padding-top: 7em;
 }
 
-.contributor-section h1{
-  display: flex;
-  justify-content: center;
-  margin: 80px;
-  text-decoration: underline double #12135a;
-  /* text-decoration: underline double #6b6cc0; */
-  font-weight: bold;
-  margin-bottom: 4rem;
-  color: #12135a;
-}
-
 .gallery{
   display: flex;
   justify-content: space-between;
