@@ -17,4 +17,4 @@
   |- Stream         -- Resources page eg. mechanical.html, cse.html pages should be stored here
   
   ## Link of Website
-  - https://kamya123.github.io/SCC-V2.0/
+  - https://tier3guy.github.io/SCC-V2.0/
