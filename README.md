@@ -1,6 +1,5 @@
 # Folder Structure
-- public
-  |- index.html     -- This is the main file or Our Home Page
+- index.html     -- This is the main file or Our Home Page
 
 - src
   |- Assets
