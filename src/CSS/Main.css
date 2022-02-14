@@ -17,3 +17,13 @@
 .btn-custom:hover{
     background: var(--dark-blue);
 }
+
+.dev-track{
+    color: var(--white) !important;
+    margin-bottom: 4em;
+}
+
+.dev-track .card-body{
+    display: flex;
+    flex-direction: column;
+}

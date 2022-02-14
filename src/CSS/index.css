@@ -30,3 +30,14 @@ body::-webkit-scrollbar-track{
 body{
     background: var(--white);
 }
+
+.btn-secondary{
+    padding: 12px;
+    margin: 12px;
+    background: var(--pink);
+    color: var(--white);
+}
+
+.btn-secondary:hover{
+    background: var(--blue);
+}
