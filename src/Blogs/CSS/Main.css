@@ -1,0 +1,11 @@
+.bg-blue{
+  background-color: var(--blue);
+}
+
+.main-section{
+  padding-top: 5em;
+}
+
+.blog-card img{
+  height: 10em;
+}
