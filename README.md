@@ -2,9 +2,9 @@
 
 This is a multipages website. You can click on page at navbar to open your desired page.
 
-- index.html : This is the main file or our home page
+- **index.html :** This is the main file or our home page
 
-- src :
+- **src :**
   | Folder Name | What is in that Folder |
   |-------------|------------------------|
   | Assets      | This folder contains all the images used in site. If you want to contribute make sure you put your image in the "**Assets**" folder and then link accordingly |
