@@ -1,19 +1,21 @@
 # Folder Structure
-- index.html     -- This is the main file or Our Home Page
 
-- src
-  |- Assets
-    |- This folders contains all the images used in the site, if you also want contribute make sure you put your image in the assets folder and then link accordingly.
+This is a multipages website. You can click on page at navbar to open your desired page.
 
-  |- CSS
-     |- index.css   -- main css file to be linked in the css file
+- **index.html :** This is the main file or our home page
 
-     This folder contains all the CSS files used in the site, if you are creating a page then make a seperate css file for that and then include that file in the index.css file. 
-
-  |- JS             -- javascript folder
-  |- pages          -- all pages that are present in the website expect the home page should to store here.
-
-  |- Stream         -- Resources page eg. mechanical.html, cse.html pages should be stored here
+- **src :**
+  | Folder Name | What is in that Folder |
+  |-------------|------------------------|
+  | Assets      | This folder contains all the images used in site. If you want to contribute make sure you put your image in the "**Assets**" folder and then link accordingly |
+  | Blogs       | **Our Blogs** page html and css code source are in this folder |
+  | CSS         | CSS code of all the parts of our website is present in this folder except **Our Blogs** page css |
+  | DSA         | This folder contains html and css of **Resources** page of website |
+  | Development | Development folder contains html and css of first ***Announcement*** section of **Home** page | 
+  | JS          | JavaScript Folder |
+  | Pages       | All pages that are present in the website expect the home page should to store here |
+  | Stream      | Resources page eg. mechanical.html, cse.html pages should be stored here |
   
-  ## Link of Website
-  - https://tier3guy.github.io/SCC-V2.0/
+ ## Link of Website
+ - https://tier3guy.github.io/SCC-V2.0/
+ 
