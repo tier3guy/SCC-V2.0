@@ -31,6 +31,10 @@ body{
     background: var(--white);
 }
 
+.offcanvas ::-webkit-scrollbar{
+    display: none;
+}
+
 .btn-secondary{
     padding: 12px;
     margin: 12px;

@@ -1,9 +1,10 @@
 @import "./Partials.css";
 .navbar{
+    padding: 2em !important;
     background-color: var(--white);
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
     z-index: 999 !important;
-    border-radius: 0px 0px 15px 15px;
+    border-radius: 0px 0px 0px 45px;
 }
 
 .logo{
@@ -13,4 +14,5 @@
 
 .nav-item .nav-link{
     color: var(--pink) !important;
+    cursor: pointer !important;
 }
