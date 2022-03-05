@@ -1,7 +1,7 @@
+@import "./Footer.css";
 @import "./Partials.css";
 @import "./Navbar.css";
 @import "./Main.css";
-@import "./Footer.css";
 @import "./Contributors.css";
 @import "./Resources.css";
 @import "./About.css";
@@ -29,6 +29,10 @@ body::-webkit-scrollbar-track{
 }
 body{
     background: var(--white);
+}
+
+.offcanvas ::-webkit-scrollbar{
+    display: none;
 }
 
 .btn-secondary{

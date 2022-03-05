@@ -1,11 +1,12 @@
 @import "./Partials.css";
 .main-section {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    padding-top: 8em;
     min-height: 100vh;
-    flex-direction: column;
     background: var(--white);
+}
+
+#bash-img{
+    height: 3em;
 }
 
 .btn-custom{
@@ -29,7 +30,7 @@
 
 .card-body-custom{
     position: absolute;
-    background: var(--blue);
+    background-image: linear-gradient(to right, #00093c,#2d0b00);
     height: 100%; 
     width: 100%;
     display: flex;

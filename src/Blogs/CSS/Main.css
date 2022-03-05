@@ -4,6 +4,10 @@
 
 .main-section{
   padding-top: 5em;
+  padding-bottom: 3em;
+}
+.main-section h1{
+  margin-top: 2em;
 }
 
 .blog-card img{

@@ -1,16 +1,25 @@
 @import "./Partials.css";
+
 .navbar{
+    padding: 1.5em 2em !important;
     background-color: var(--white);
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
     z-index: 999 !important;
-    border-radius: 0px 0px 15px 15px;
+    border-radius: 0px 0px 0px 45px;
 }
 
-.logo{
+.logo-main{
     color: var(--dark-blue) !important;
     font-size: 1.3em;
 }
 
 .nav-item .nav-link{
     color: var(--pink) !important;
+    cursor: pointer !important;
+    display: inline !important;
 }
+
+.navbar > .container-fluid > .nav-link > a{
+    width: 10em;
+}
+
