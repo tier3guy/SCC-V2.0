@@ -23,7 +23,10 @@ footer{
   flex-basis: 25%;
   padding: 10px;
 }
-.footer-col:nth-child(2), :nth-child(3){
+.footer-col:nth-child(2){
+  flex-basis: 15%;
+}
+.footer-col:nth-child(3){
   flex-basis: 15%;
 }
 .logo{
