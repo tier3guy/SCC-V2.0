@@ -5,3 +5,6 @@
 #accordion{
   margin-top: 2em;
 }
+.accordion-body > ul > li > a{
+  color: var(--pink);
+}
